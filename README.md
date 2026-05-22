@@ -28,6 +28,7 @@ A modern pricing page created using HTML and CSS. This project showcases a clean
 - Structuring reusable components
 
 ## Preview
+click here to view project- https://krishvermadev.github.io/Pricing-Card/
 
 A clean SaaS-inspired pricing section featuring colorful pricing cards and intuitive navigation.
 
